@@ -1,0 +1,8 @@
+To run the application, install the following dependencies:
+
+Dependencies for router:
+ npm install react-router-dom@6
+
+Dependencies for timer:
+ npm install react-slider
+ npm install --save react-circular-progressbar
