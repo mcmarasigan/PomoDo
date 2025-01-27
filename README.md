@@ -16,7 +16,7 @@ To get started with PomoDo, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mcmarasigan/pomodo.git
+  https://github.com/mcmarasigan/PomoDo.git
 ## Technologies Used
 
 ### Frontend
