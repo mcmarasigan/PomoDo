@@ -16,25 +16,20 @@ To get started with PomoDo, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pomodo.git
+   git clone https://github.com/mcmarasigan/pomodo.git
 ## Technologies Used
 
 ### Frontend
-- **Flutter**: Framework for building the app's UI and managing navigation.
-- **Dart**: Programming language used for Flutter development.
-
-### Backend
-- **Firebase Authentication**: Provides secure user authentication.
-- **Firestore Database**: Real-time database to store and sync user data.
-- **Firebase Storage**: Used for storing files like images.
+- **React Native**: Framework for building cross-platform mobile applications.
+- **JavaScript/TypeScript**: Programming languages used for development.
 
 ### State Management
-- **Provider**: For managing app state efficiently and predictably.
+- **Redux**: For managing app state efficiently and predictably.
 
 ### UI Components
-- **Material Design**: Ensures a consistent and intuitive UI.
+- **React Native Paper**: Provides Material Design-inspired components for a consistent and intuitive UI.
 - **Dark Mode**: Reduces visual strain with a dim interface.
 
 ### Additional Tools
-- **Table Calendar**: Displays and manages tasks within a calendar interface.
-- **Image Picker**: Allows users to upload images for their profile or tasks.
+- **React Native Calendars**: Displays and manages tasks within a calendar interface.
+- **React Native Image Picker**: Allows users to upload images for their profile or tasks.
