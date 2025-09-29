@@ -1,6 +1,6 @@
 # PomoDo
 
-PomoDo is a simple and efficient Pomodoro Timer and Task Management app built using Flutter. It is designed to boost productivity by helping users focus on their tasks while incorporating regular breaks to reduce burnout.
+PomoDo is a simple and efficient Pomodoro Timer and Task Management app built using ReactJS. It is designed to boost productivity by helping users focus on their tasks while incorporating regular breaks to reduce burnout.
 
 ## Features
 
