@@ -20,16 +20,9 @@ To get started with PomoDo, follow these steps:
 ## Technologies Used
 
 ### Frontend
-- **React Native**: Framework for building cross-platform mobile applications.
+- **React JS**: Library for building web applications (single-page apps, dashboards, etc.).
 - **JavaScript/TypeScript**: Programming languages used for development.
 
 ### State Management
 - **Redux**: For managing app state efficiently and predictably.
 
-### UI Components
-- **React Native Paper**: Provides Material Design-inspired components for a consistent and intuitive UI.
-- **Dark Mode**: Reduces visual strain with a dim interface.
-
-### Additional Tools
-- **React Native Calendars**: Displays and manages tasks within a calendar interface.
-- **React Native Image Picker**: Allows users to upload images for their profile or tasks.
