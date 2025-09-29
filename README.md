@@ -7,7 +7,6 @@ PomoDo is a simple and efficient Pomodoro Timer and Task Management app built us
 - **Customizable Pomodoro Timer**: Focus on tasks with a 25-minute timer and 5-minute breaks.
 - **Task Management**: Add, complete, or delete tasks effortlessly.
 - **Progress Tracking**: Keep track of completed tasks with a visual checklist.
-- **Dark Mode**: Reduce visual strain with a dim, easy-to-read interface.
 - **User-Friendly Interface**: Simple navigation for smooth task and timer management.
 
 ## Getting Started
